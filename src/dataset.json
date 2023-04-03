@@ -1,0 +1,39 @@
+{
+  "reports": [
+    {
+      "_id": "oerjgkldjf",
+      "title": "Test Title 1",
+      "author": "Bora",
+      "desc": "lorem ipsum dolor sit amet",
+      "latLng": { "lat": 39.925534, "lng": 32.866286 }
+    },
+    {
+      "_id": "oerjgkldjf",
+      "title": "Test Title 2",
+      "author": "Test",
+      "desc": "lorem ipsum dolor sit amet",
+      "latLng": { "lat": 39.825633, "lng": 32.766387 }
+    },
+    {
+      "_id": "oerjgkldjf",
+      "title": "Test Title 3",
+      "author": "Jack",
+      "desc": "lorem ipsum dolor sit amet",
+      "latLng": { "lat": 39.965537, "lng": 32.856288 }
+    },
+    {
+      "_id": "oerjgkldjf",
+      "title": "Test Title 4",
+      "author": "Michael",
+      "desc": "lorem ipsum dolor sit amet",
+      "latLng": { "lat": 39.945533, "lng": 32.886287 }
+    },
+    {
+      "_id": "oerjgkldjf",
+      "title": "Test Title 5",
+      "author": "Lorems Cart Curt",
+      "desc": "lorem ipsum dolor sit amet",
+      "latLng": { "lat": 39.928533, "lng": 32.869287 }
+    }
+  ]
+}
